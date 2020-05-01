@@ -105,7 +105,7 @@ public class EMF : MonoBehaviour {
 				}
 			}
 		}
-		
+
 		//checkForGhosts();
 	}
 

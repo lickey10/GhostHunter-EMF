@@ -13,13 +13,251 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-06-01T16:14:10.899-06:00
-  initializedAtString: 2020-06-01T15:53:58.272-06:00
+  lastUpdatedAtString: 2020-06-01T16:39:11.498-06:00
+  initializedAtString: 2020-06-01T16:37:23.724-06:00
   entries:
+  - path: Ghost Hunter - EMF\Assembly-CSharp-Editor.csproj
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\ArtifactDB
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\Artifacts\09\098577ee1a9b83e118e4e254e5ee41ec
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\09\098577ee1a9b83e118e4e254e5ee41ec
+    projectPath: Library\Artifacts\09\098577ee1a9b83e118e4e254e5ee41ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\0c\0ca0ac2fcd99fb2ee75c145ca9613f03
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\0c\0ca0ac2fcd99fb2ee75c145ca9613f03
+    projectPath: Library\Artifacts\0c\0ca0ac2fcd99fb2ee75c145ca9613f03
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\13\13518acdd73cb38f29ac53970145627d
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\13\13518acdd73cb38f29ac53970145627d
+    projectPath: Library\Artifacts\13\13518acdd73cb38f29ac53970145627d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\25\2536a21832a99bd646573d999776b63d
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\25\2536a21832a99bd646573d999776b63d
+    projectPath: Library\Artifacts\25\2536a21832a99bd646573d999776b63d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\2d\2d83a55c182be668de5932b6bbaddb2a
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\2d\2d83a55c182be668de5932b6bbaddb2a
+    projectPath: Library\Artifacts\2d\2d83a55c182be668de5932b6bbaddb2a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\3a\3aa14807a590ccfd339c13f5c388cd03
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\3a\3aa14807a590ccfd339c13f5c388cd03
+    projectPath: Library\Artifacts\3a\3aa14807a590ccfd339c13f5c388cd03
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\4e\4e6656e86224c067307199603ff2be2c
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\4e\4e6656e86224c067307199603ff2be2c
+    projectPath: Library\Artifacts\4e\4e6656e86224c067307199603ff2be2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\54\5488f64f35417abf39f2aaffdda49507
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\54\5488f64f35417abf39f2aaffdda49507
+    projectPath: Library\Artifacts\54\5488f64f35417abf39f2aaffdda49507
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    projectPath: Library\Artifacts\5e\5e357731f154c0829048d2a9400f896a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\71\71b15ba2c5255a19d0447f10db63f4a4
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\71\71b15ba2c5255a19d0447f10db63f4a4
+    projectPath: Library\Artifacts\71\71b15ba2c5255a19d0447f10db63f4a4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\80\80d3c331ee9d99af118e4943f2a09337
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\80\80d3c331ee9d99af118e4943f2a09337
+    projectPath: Library\Artifacts\80\80d3c331ee9d99af118e4943f2a09337
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\8f\8fcbc08d88cf08596b23c600013c798f
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\8f\8fcbc08d88cf08596b23c600013c798f
+    projectPath: Library\Artifacts\8f\8fcbc08d88cf08596b23c600013c798f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    projectPath: Library\Artifacts\97\975c4228a1e9c98a7a94ce92b1cdd518
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\a5\a5056e4c771df8880ac64322c6a64a6b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\a5\a5056e4c771df8880ac64322c6a64a6b
+    projectPath: Library\Artifacts\a5\a5056e4c771df8880ac64322c6a64a6b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\b5\b5bf88e22f7f0c65c412fa5bb9c84dfa
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\b5\b5bf88e22f7f0c65c412fa5bb9c84dfa
+    projectPath: Library\Artifacts\b5\b5bf88e22f7f0c65c412fa5bb9c84dfa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\bb\bbfd04cc4991b3b830458ffe688f44b3
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\bb\bbfd04cc4991b3b830458ffe688f44b3
+    projectPath: Library\Artifacts\bb\bbfd04cc4991b3b830458ffe688f44b3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\bf\bfee8d1b383998eb5a7b5428f250492c
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\bf\bfee8d1b383998eb5a7b5428f250492c
+    projectPath: Library\Artifacts\bf\bfee8d1b383998eb5a7b5428f250492c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\cf\cff248d8f3efaa0dbb34ac04af21145c
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\cf\cff248d8f3efaa0dbb34ac04af21145c
+    projectPath: Library\Artifacts\cf\cff248d8f3efaa0dbb34ac04af21145c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\d3\d384db8f8d1ded2adb97779796fd487a
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\d3\d384db8f8d1ded2adb97779796fd487a
+    projectPath: Library\Artifacts\d3\d384db8f8d1ded2adb97779796fd487a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\dd\dd567511e13c0ad803e773f2d47bb8cb
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\dd\dd567511e13c0ad803e773f2d47bb8cb
+    projectPath: Library\Artifacts\dd\dd567511e13c0ad803e773f2d47bb8cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\e0\e02bfff00834dfc5d963003d6486b37b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\e0\e02bfff00834dfc5d963003d6486b37b
+    projectPath: Library\Artifacts\e0\e02bfff00834dfc5d963003d6486b37b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\ed\ed114922dacd94fa16ba92a9e1860780
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\ed\ed114922dacd94fa16ba92a9e1860780
+    projectPath: Library\Artifacts\ed\ed114922dacd94fa16ba92a9e1860780
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\Artifacts\f1\f1ba83e504c6a3a0421de3ef43effa64
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\Artifacts\f1\f1ba83e504c6a3a0421de3ef43effa64
+    projectPath: Library\Artifacts\f1\f1ba83e504c6a3a0421de3ef43effa64
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Library\AtlasCache\95\95e743a85ff6ee8b1e73c07fa5406d40
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\AtlasCache\95\95e743a85ff6ee8b1e73c07fa5406d40
+    projectPath: Library\AtlasCache\95\95e743a85ff6ee8b1e73c07fa5406d40
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Ghost Hunter - EMF\Library\CurrentLayout-default.dwlt
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\CurrentMaximizeLayout.dwlt
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\EditorInstance.json
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\expandedItems
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Ghost Hunter - EMF\Library\gfu\cache\branches.yaml
     fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
       EMF\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\gfu\cache\gitlog.yaml
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -30,3 +268,353 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\LastSceneManagerSetup.txt
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\SceneVisibilityState.asset
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\SourceAssetDB
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Library\StateCache\Hierarchy\aedb5c-mainStage.json
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Library\StateCache\Hierarchy\aedb5c-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\aedb5c-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-0413f31c167d69a4495697107202feff
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-0413f31c167d69a4495697107202feff
+    projectPath: Temp\UnityTempFile-0413f31c167d69a4495697107202feff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-09dad763935cdd4418849c244904d428
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-09dad763935cdd4418849c244904d428
+    projectPath: Temp\UnityTempFile-09dad763935cdd4418849c244904d428
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-178e66cb5291dab499b1c8e125d2c39a
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-178e66cb5291dab499b1c8e125d2c39a
+    projectPath: Temp\UnityTempFile-178e66cb5291dab499b1c8e125d2c39a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-18772f593f933604f81c72ec131ba3af
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-18772f593f933604f81c72ec131ba3af
+    projectPath: Temp\UnityTempFile-18772f593f933604f81c72ec131ba3af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-203f4b2891ab895408b1dd27f06f7d91
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-203f4b2891ab895408b1dd27f06f7d91
+    projectPath: Temp\UnityTempFile-203f4b2891ab895408b1dd27f06f7d91
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-23ab412428d19bf44a7e8d9f0c8ce7bb
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-23ab412428d19bf44a7e8d9f0c8ce7bb
+    projectPath: Temp\UnityTempFile-23ab412428d19bf44a7e8d9f0c8ce7bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-2c893b2298b06ce4ebe78243720d6e92
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-2c893b2298b06ce4ebe78243720d6e92
+    projectPath: Temp\UnityTempFile-2c893b2298b06ce4ebe78243720d6e92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-30c839253f8525d4e95113cd52f99732
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-30c839253f8525d4e95113cd52f99732
+    projectPath: Temp\UnityTempFile-30c839253f8525d4e95113cd52f99732
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-3387b3c10faac094a8d00204a83ce4d7
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-3387b3c10faac094a8d00204a83ce4d7
+    projectPath: Temp\UnityTempFile-3387b3c10faac094a8d00204a83ce4d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-339c1f171ebb1b8409c16becbede521c
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-339c1f171ebb1b8409c16becbede521c
+    projectPath: Temp\UnityTempFile-339c1f171ebb1b8409c16becbede521c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-3feec68a9d1a7bc478b81a5330180d2e
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-3feec68a9d1a7bc478b81a5330180d2e
+    projectPath: Temp\UnityTempFile-3feec68a9d1a7bc478b81a5330180d2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-56d71b46cf30e8546944a726c354c11c
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-56d71b46cf30e8546944a726c354c11c
+    projectPath: Temp\UnityTempFile-56d71b46cf30e8546944a726c354c11c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-5cfe840f4649c56469a40cfbc92ce717
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-5cfe840f4649c56469a40cfbc92ce717
+    projectPath: Temp\UnityTempFile-5cfe840f4649c56469a40cfbc92ce717
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-5d988f50a4368f34d880b18226561248
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-5d988f50a4368f34d880b18226561248
+    projectPath: Temp\UnityTempFile-5d988f50a4368f34d880b18226561248
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-61b16070ddf0c3e47be614b554de3d01
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-61b16070ddf0c3e47be614b554de3d01
+    projectPath: Temp\UnityTempFile-61b16070ddf0c3e47be614b554de3d01
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-6964b8067db11a543a32ea1382294944
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-6964b8067db11a543a32ea1382294944
+    projectPath: Temp\UnityTempFile-6964b8067db11a543a32ea1382294944
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-6cb9f2aa2add3574290ccc07c7c268e9
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-6cb9f2aa2add3574290ccc07c7c268e9
+    projectPath: Temp\UnityTempFile-6cb9f2aa2add3574290ccc07c7c268e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-6d8a69eb0b6f8d14ab0608bcf284c72b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-6d8a69eb0b6f8d14ab0608bcf284c72b
+    projectPath: Temp\UnityTempFile-6d8a69eb0b6f8d14ab0608bcf284c72b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-73251f6cb5ef4674c896643fa114e295
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-73251f6cb5ef4674c896643fa114e295
+    projectPath: Temp\UnityTempFile-73251f6cb5ef4674c896643fa114e295
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-75027b54936fb724dbdb5e1bb962ea20
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-75027b54936fb724dbdb5e1bb962ea20
+    projectPath: Temp\UnityTempFile-75027b54936fb724dbdb5e1bb962ea20
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-8d282634befe6a943b251cf97a073efd
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-8d282634befe6a943b251cf97a073efd
+    projectPath: Temp\UnityTempFile-8d282634befe6a943b251cf97a073efd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-91cd43977d7b8d64fbe9b29171cd3326
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-91cd43977d7b8d64fbe9b29171cd3326
+    projectPath: Temp\UnityTempFile-91cd43977d7b8d64fbe9b29171cd3326
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-921997f540f44974290d7bb04d71530b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-921997f540f44974290d7bb04d71530b
+    projectPath: Temp\UnityTempFile-921997f540f44974290d7bb04d71530b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-93716629cf03f4c4c8b59618f15c453f
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-93716629cf03f4c4c8b59618f15c453f
+    projectPath: Temp\UnityTempFile-93716629cf03f4c4c8b59618f15c453f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-952a2fa901cf2e048959ca007730c5aa
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-952a2fa901cf2e048959ca007730c5aa
+    projectPath: Temp\UnityTempFile-952a2fa901cf2e048959ca007730c5aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-9b609e661848c9347a5541746672009d
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-9b609e661848c9347a5541746672009d
+    projectPath: Temp\UnityTempFile-9b609e661848c9347a5541746672009d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-9e98fb0b0ba28a34084987a8216313cf
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-9e98fb0b0ba28a34084987a8216313cf
+    projectPath: Temp\UnityTempFile-9e98fb0b0ba28a34084987a8216313cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-a02ca2bd55d65cb4eb8a6c04800a83fc
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-a02ca2bd55d65cb4eb8a6c04800a83fc
+    projectPath: Temp\UnityTempFile-a02ca2bd55d65cb4eb8a6c04800a83fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-a289c314b68e67f4b89fb946aff90d24
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-a289c314b68e67f4b89fb946aff90d24
+    projectPath: Temp\UnityTempFile-a289c314b68e67f4b89fb946aff90d24
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-ad8e132ac133f4b4bba1fb136c37775b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-ad8e132ac133f4b4bba1fb136c37775b
+    projectPath: Temp\UnityTempFile-ad8e132ac133f4b4bba1fb136c37775b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-ade1250b032aabe48932b65a15e9a4d0
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-ade1250b032aabe48932b65a15e9a4d0
+    projectPath: Temp\UnityTempFile-ade1250b032aabe48932b65a15e9a4d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-ae03d0b565d7fb74585ee317b5f11604
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-ae03d0b565d7fb74585ee317b5f11604
+    projectPath: Temp\UnityTempFile-ae03d0b565d7fb74585ee317b5f11604
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-b76ee1e65db10bd4c81846ebe19c27ff
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-b76ee1e65db10bd4c81846ebe19c27ff
+    projectPath: Temp\UnityTempFile-b76ee1e65db10bd4c81846ebe19c27ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-c30a1ef8221b28e43a08647c65505dae
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-c30a1ef8221b28e43a08647c65505dae
+    projectPath: Temp\UnityTempFile-c30a1ef8221b28e43a08647c65505dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-c6172d86000e6bf40b5e8af74f15b413
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-c6172d86000e6bf40b5e8af74f15b413
+    projectPath: Temp\UnityTempFile-c6172d86000e6bf40b5e8af74f15b413
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-cbdb21d5fb4629a4990b4d31cfedf5d3
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-cbdb21d5fb4629a4990b4d31cfedf5d3
+    projectPath: Temp\UnityTempFile-cbdb21d5fb4629a4990b4d31cfedf5d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-cc5fc08381f73eb4694ea16b63ee6542
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-cc5fc08381f73eb4694ea16b63ee6542
+    projectPath: Temp\UnityTempFile-cc5fc08381f73eb4694ea16b63ee6542
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-cdd9af87c20cd324c85a44b04fc34e7a
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-cdd9af87c20cd324c85a44b04fc34e7a
+    projectPath: Temp\UnityTempFile-cdd9af87c20cd324c85a44b04fc34e7a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-dbf0841c5defe874f98dc5c77234344e
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-dbf0841c5defe874f98dc5c77234344e
+    projectPath: Temp\UnityTempFile-dbf0841c5defe874f98dc5c77234344e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-e304a47108236a640a38074106745bed
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-e304a47108236a640a38074106745bed
+    projectPath: Temp\UnityTempFile-e304a47108236a640a38074106745bed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-ebe48b5f41ed6d8419fadc14d5c6c612
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-ebe48b5f41ed6d8419fadc14d5c6c612
+    projectPath: Temp\UnityTempFile-ebe48b5f41ed6d8419fadc14d5c6c612
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-f106ac2ace9e8fa4484073684044ca92
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-f106ac2ace9e8fa4484073684044ca92
+    projectPath: Temp\UnityTempFile-f106ac2ace9e8fa4484073684044ca92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-f9a05b69050428348880da7f851df48b
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-f9a05b69050428348880da7f851df48b
+    projectPath: Temp\UnityTempFile-f9a05b69050428348880da7f851df48b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Ghost Hunter - EMF\Temp\UnityTempFile-fbea9fb879eea114d8b1b16046623afc
+    fullPath: D:\utilities\Programming\Unity\Repos\GhostHunter-EMF\Ghost Hunter -
+      EMF\Temp\UnityTempFile-fbea9fb879eea114d8b1b16046623afc
+    projectPath: Temp\UnityTempFile-fbea9fb879eea114d8b1b16046623afc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
